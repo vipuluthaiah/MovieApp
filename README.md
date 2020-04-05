@@ -1,7 +1,7 @@
 # kino
 
 A new Flutter project.
-![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif),
+<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif" width="300" height="600">
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AXAX.png),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AZa.png),
 <img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AXAX.png" width="400" height="500">
