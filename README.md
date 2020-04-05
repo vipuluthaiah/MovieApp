@@ -6,7 +6,7 @@ A new Flutter project.
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AZa.png),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/Untitled.png),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/zaz.png),
-![test image size](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif  =100x20)
+<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif.gif" width="100" height="100">
 
 
 ## Getting Started
