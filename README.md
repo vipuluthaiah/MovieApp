@@ -1,10 +1,10 @@
 # kino
 
 A new Flutter project.
-<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif" width="300" height="550">
+<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif" width="300" height="550">,
+
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AXAX.png),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AZa.png),
-<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AXAX.png" width="300" height="550">
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/Untitled.png),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/zaz.png),
 
