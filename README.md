@@ -4,10 +4,10 @@ A new Flutter project.
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AXAX.png),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AZa.png),
-<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AXAX.png" width="100" height="100">
+<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/AXAX.png" width="100" height="200">
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/Untitled.png),
 ![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/zaz.png),
-<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif" width="500" height="500">
+<img src="https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif" width="400" height="500">
 
 
 ## Getting Started
