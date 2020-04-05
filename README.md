@@ -1,6 +1,7 @@
 # kino
 
 A new Flutter project.
+![ScreenShot](https://github.com/vipuluthaiah/MovieApp/blob/master/assets/untitled.gif)
 
 ## Getting Started
 
